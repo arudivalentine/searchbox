@@ -1,6 +1,6 @@
 # SearchBox Project
 
-This project implements a simple and stylish search box interface using HTML, CSS, and JavaScript. It allows users to input search terms and provides links to different search engines for performing searches.
+This project uses HTML, CSS, and JavaScript to implement a simple and stylish search box interface. It allows users to input search terms and provides links to different search engines for performing searches.
 
 ## Table of Contents
 
